@@ -1,5 +1,5 @@
 # Trabalho-final-IAM : Bank Marketing
-###
+### Análise Exploratória de Dados
 ---
 
 ## Integrantes do Grupo
@@ -10,7 +10,7 @@
 ---
 
 ## Tema do Projeto
-Este projeto tem como objetivo analisar dados reais de **Geração Distribuída de Energia no Brasil**, com foco em usinas fotovoltaicas conectadas à rede, e desenvolver **modelos de Aprendizado de Máquina** capazes de prever a **potência instalada (kW)** com base em características cadastrais das unidades geradoras.
+Este projeto tem como objetivo analisar dados reais de **NEGRITO**, com foco em, e desenvolver **NEGRITO** capazes de prever a **NEGRITO**.
 
 O estudo inclui:
 - Análise exploratória dos dados (EDA)  
